@@ -1,5 +1,6 @@
 Non-git commands
--touch
+-touch (creates a new file)
 -cd
 -mkdir
 -nano
+
