@@ -2,4 +2,4 @@ Non-git commands
 -touch
 -cd
 -mkdir
-
+-nano
