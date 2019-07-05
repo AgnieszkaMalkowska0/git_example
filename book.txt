@@ -1,4 +1,16 @@
+
+
 Contents
 1.Git command basics
 -git add
 -git commit
+-git status
+-git rm --cached
+-git commit --amend
+-git log
+-git checkout -- book.txt
+-git reset HEAD book,txt
+-git stash
+-git ckeckout -b branch_name
+-git stash pop --index [0,1,2,3]
+
