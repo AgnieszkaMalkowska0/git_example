@@ -19,3 +19,6 @@ Contents
 -git remote -v
 -git add origin || cokolwiek remote_address_url
 -git remote rm (origin || cokolwiek) 
+-git pull origin master
+-git push origin master (--force) (!!)
+-git push origin -u master (upstream set - )
