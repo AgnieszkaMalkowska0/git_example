@@ -1,4 +1,28 @@
+
 Contents
 1.Git command basics
 -git add
 -git commit
+-git status
+-git rm --cached
+-git commit --amend
+-git log
+-git checkout -- book.txt
+-git reset HEAD book,txt
+-git stash
+-git ckeckout -b branch_name
+-git stash pop --index [0,1,2,3]
+-git merge (branch_name || origin/branch_name)
+-git branch -d branch_name
+-git branch
+-git remote
+-git remote -v
+-git add origin || cokolwiek remote_address_url
+-git remote rm (origin || cokolwiek) 
+-git pull origin master
+-git push origin master (--force) (!!)
+-git push origin -u master (upstream set - )
+-git revert SHA
+git revert --abort
+git revert --continue
+git reset SHA

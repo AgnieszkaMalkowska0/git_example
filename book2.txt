@@ -1,0 +1,7 @@
+Non-git commands
+-touch (creates a new file)
+-cd
+-mkdir
+-nano
+
+
